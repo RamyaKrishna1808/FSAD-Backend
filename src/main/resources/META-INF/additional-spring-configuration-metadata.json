@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {
+      "name": "app.upload.dir",
+      "type": "java.lang.String",
+      "description": "Directory where uploaded assignment files are stored.",
+      "defaultValue": "uploads"
+    }
+  ]
+}
